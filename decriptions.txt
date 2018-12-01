@@ -1,0 +1,1 @@
+This project just shows the code abort common design pattern
