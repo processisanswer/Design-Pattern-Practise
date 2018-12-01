@@ -1,4 +1,6 @@
-package com.spicoming.product;
+package com.spicoming.product.dell;
+
+import com.spicoming.product.Mouse;
 
 /**
  * Created by NJTZ on 2018/12/1.

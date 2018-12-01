@@ -1,4 +1,5 @@
 This project just shows the code abort common design pattern
 
-dev1  simple factory pattern
+dev  simple factory pattern
 
+dev-two factory pattern 
